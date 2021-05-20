@@ -1,0 +1,13 @@
+C:\Users\egos2\source\repos\Exepciones\Exepciones\bin\Debug\Exepciones.exe.config
+C:\Users\egos2\source\repos\Exepciones\Exepciones\bin\Debug\Exepciones.exe
+C:\Users\egos2\source\repos\Exepciones\Exepciones\bin\Debug\Exepciones.pdb
+C:\Users\egos2\source\repos\Exepciones\Exepciones\bin\Debug\Entidades.dll
+C:\Users\egos2\source\repos\Exepciones\Exepciones\bin\Debug\Entidades.pdb
+C:\Users\egos2\source\repos\Exepciones\Exepciones\obj\Debug\Exepciones.csprojAssemblyReference.cache
+C:\Users\egos2\source\repos\Exepciones\Exepciones\obj\Debug\Exepciones.Form1.resources
+C:\Users\egos2\source\repos\Exepciones\Exepciones\obj\Debug\Exepciones.Properties.Resources.resources
+C:\Users\egos2\source\repos\Exepciones\Exepciones\obj\Debug\Exepciones.csproj.GenerateResource.cache
+C:\Users\egos2\source\repos\Exepciones\Exepciones\obj\Debug\Exepciones.csproj.CoreCompileInputs.cache
+C:\Users\egos2\source\repos\Exepciones\Exepciones\obj\Debug\Exepciones.csproj.CopyComplete
+C:\Users\egos2\source\repos\Exepciones\Exepciones\obj\Debug\Exepciones.exe
+C:\Users\egos2\source\repos\Exepciones\Exepciones\obj\Debug\Exepciones.pdb
